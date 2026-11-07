@@ -1,0 +1,6 @@
+[submodule "upstream/BugfixedHL-Rebased"]
+	path = upstream/BugfixedHL-Rebased
+	url = https://github.com/tmp64/BugfixedHL-Rebased.git
+[submodule "upstream/halflife-op4-updated"]
+	path = upstream/halflife-op4-updated
+	url = https://github.com/twhl-community/halflife-op4-updated.git
